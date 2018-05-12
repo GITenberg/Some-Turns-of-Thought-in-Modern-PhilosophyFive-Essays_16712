@@ -1,0 +1,35 @@
+_repo: Some-Turns-of-Thought-in-Modern-PhilosophyFive-Essays_16712
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Santayana, George
+    aliases:
+    - Santayana, Georgius
+    - Santayana, Jorge
+    birthdate: 1863
+    deathdate: 1952
+    gutenberg_agent_id: '5805'
+    url: http://www.gutenberg.org/2009/agents/5805
+    wikipedia: http://en.wikipedia.org/wiki/George_Santayana
+description: ''
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '2005-09-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Modern'
+- !lcc 'B'
+- !lcsh 'Locke, John, 1632-1704'
+tableOfContents: Locke and the frontiers of common sense -- Fifty years of British
+  idealism -- Revolutions in science -- A long way round to Nirvana -- The prestige
+  of the infinite.
+title: 'Some Turns of Thought in Modern Philosophy: Five Essays'
+url: http://www.gutenberg.org/ebooks/16712
